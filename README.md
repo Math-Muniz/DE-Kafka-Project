@@ -1,8 +1,7 @@
 # Stock Market Kafka Real Time Data Engineering Project
 
 ## Introduction 
-In this project, i execute a End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.
-
+This project demonstrates how to use Apache Kafka and AWS services to build a data pipeline for analyzing COVID-19 data from the AWS Open Datasets.
 I use different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 
 ## Architecture 
@@ -16,11 +15,11 @@ I use different technologies such as Python, Amazon Web Services (AWS), Apache K
 3. Glue Crawler
 4. Glue Catalog
 5. EC2
+- SQL
 - Apache Kafka
 
 
 ## Dataset Used
 You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline) 
-
 Here is the dataset used in the project - https://github.com/Math-Muniz/DE-Kafka-Project/blob/main/indexProcessed.csv
 
